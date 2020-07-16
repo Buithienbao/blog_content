@@ -1,0 +1,17 @@
+a:4:{s:8:"template";s:3:"zum";s:4:"mods";a:11:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:18:"primary_navigation";i:9;}s:18:"custom_css_post_id";i:831;s:10:"zum_header";s:6:"center";s:8:"zum_logo";s:61:"http://zum.nanothemes.co/wp-content/uploads/2017/08/logo2.png";s:18:"zum_share_linkedin";b:1;s:21:"zum_post_meta_comment";b:1;s:20:"zum_cat_content_like";b:1;s:10:"zum_footer";s:1:"2";s:19:"zum_post_meta_share";b:1;s:22:"zum_post_title_heading";b:0;}s:7:"options";a:2:{s:9:"site_icon";s:3:"576";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:274:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.entry-avatar .author-title::after{
+content:none;
+}
+#comments .heading{
+font-family: "Noto Serif";
+}
+#comments .text-user{
+font-family: "Noto Serif";
+}
+#comments .meta-user a{
+	font-size: 12px;
+}";}
